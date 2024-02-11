@@ -1,3 +1,4 @@
 mon prénom est pierre Gy.
 Ceci est la date : 11 février 2024
 mon age : 20 ans
+J'habite à : le Pays merveilleux
